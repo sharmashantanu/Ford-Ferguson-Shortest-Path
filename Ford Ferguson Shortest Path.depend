@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1524417305 source:d:\other docs\6th semester\lab work\graphics project\ford ferguson shortest path\main.cpp
+	<iostream>
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<windows.h>
+	<queue>
+
